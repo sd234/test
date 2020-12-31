@@ -228,7 +228,7 @@ public enum HeroClass {
 		stones.quantity(1).collect();
 		Dungeon.quickslot.setSlot(0, stones);
 
-/*////////////////////////////---
+/*////////////////////////////
 		CloakOfShadows cloak = new CloakOfShadows();
 		(hero.belongings.misc1 = cloak).identify();
 		hero.belongings.misc1.activate( hero );
