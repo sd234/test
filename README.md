@@ -1,4 +1,4 @@
-# Shattered Pixel Dungeon
+# ！Shattered Pixel Dungeon
 
 A Roguelike RPG, with randomly generated levels, items, enemies, and traps!
 Based on the source code of Pixel Dungeon, by Watabou.
